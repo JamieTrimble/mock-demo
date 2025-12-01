@@ -19,10 +19,10 @@
       "Has an active order": true,
       "Device Type": "MZ Switch",
       "Device Serial Number": "SWT-64730913",
-      "Firmware Version": null,
-      "Battery Level": null,
-      "Last Sync Time": null,
-      "Paired OS": null
+      "Firmware Version": 3.2.0,
+      "Battery Level": 7,
+      "Last Sync Time": 1739260980,
+      "Paired OS": "Android"
     }
   }
 }
