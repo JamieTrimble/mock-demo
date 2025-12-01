@@ -88,7 +88,7 @@
         "Shipping Carrier": "DPD",
         "Expected Delivery Date": "2025-12-14",
         "Order Last Updated": "2025-12-02T08:07Z",
-        "Has an active order": True,
+        "Has an active order": true,
         "Device Type": "MZ3",
         "Device Serial Number": "MZ3-07856",
         "Firmware Version": "3.2.0",
