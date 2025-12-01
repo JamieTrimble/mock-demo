@@ -1,0 +1,359 @@
+{
+      "external_id": "676767",
+      "role": "user",
+      "email": "tedlasso@gyminc.io",
+      "name": "Ted Lasso",
+      "avatar": null,
+      "owner_id": null,
+      "social_profiles": {
+        "type": "list",
+        "data": []
+      },
+      "has_hard_bounced": false,
+      "marked_email_as_spam": false,
+      "unsubscribed_from_emails": false,
+      "created_at": 1764543734,
+      "updated_at": 1764549585,
+      "signed_up_at": 1764547182,
+      "last_seen_at": 1764549263,
+      "last_replied_at": 1764549315,
+      "last_contacted_at": 1764549570,
+      "last_email_opened_at": null,
+      "last_email_clicked_at": null,
+      "language_override": null,
+      "browser": "chrome",
+      "browser_version": "142.0.0.0",
+      "browser_language": "en",
+      "os": "OS X 10.15.7",
+      "location": {
+        "type": "location",
+        "country": "Ireland",
+        "region": "Leinster",
+        "city": "Dublin",
+        "country_code": "IRL",
+        "continent_code": "EU"
+      },
+      "android_app_name": null,
+      "android_app_version": null,
+      "android_device": null,
+      "android_os_version": null,
+      "android_sdk_version": null,
+      "android_last_seen_at": null,
+      "ios_app_name": null,
+      "ios_app_version": null,
+      "ios_device": null,
+      "ios_os_version": null,
+      "ios_sdk_version": null,
+      "ios_last_seen_at": null,
+      "custom_attributes": {
+        "Order Number": "MZ-98342",
+        "Order Status": "Shipped",
+        "Tracking Number": "FEDEX-1234567",
+        "Shipping Carrier": "FedEx",
+        "Expected Delivery Date": "2025-02-14T00:00:00Z",
+        "Order Last Updated": 1739260980,
+        "Has an active order": true,
+        "Device Type": "MZ Switch",
+        "Device Serial Number": "SWT-64730913",
+        "Firmware Version": null,
+        "Battery Level": null,
+        "Last Sync Time": null,
+        "Paired OS": null
+      },
+      "tags": {
+        "type": "list",
+        "data": [
+          {
+            "id": "12755413",
+            "type": "tag",
+            "url": "/tags/12755413"
+          }
+        ],
+        "url": "/contacts/692cccf67a9ad14430adcc23/tags",
+        "total_count": 1,
+        "has_more": false
+      },
+      "notes": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cccf67a9ad14430adcc23/notes",
+        "total_count": 0,
+        "has_more": false
+      },
+      "companies": {
+        "type": "list",
+        "data": [
+          {
+            "id": "692ccb84e905f6e65e13440b",
+            "type": "company",
+            "url": "/companies/692ccb84e905f6e65e13440b"
+          }
+        ],
+        "url": "/contacts/692cccf67a9ad14430adcc23/companies",
+        "total_count": 1,
+        "has_more": false
+      },
+      "opted_out_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cccf67a9ad14430adcc23/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "opted_in_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cccf67a9ad14430adcc23/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "utm_campaign": null,
+      "utm_content": null,
+      "utm_medium": null,
+      "utm_source": null,
+      "utm_term": null,
+      "referrer": null,
+      "sms_consent": false,
+      "unsubscribed_from_sms": false,
+      "enabled_push_messaging": null
+    },
+    {
+      "external_id": "54321",
+      "role": "user",
+      "email": "jamie.trimble@example.io",
+      "phone": null,
+      "name": "Jamie Trimble",
+      "avatar": null,
+      "owner_id": null,
+      "social_profiles": {
+        "type": "list",
+        "data": []
+      },
+      "has_hard_bounced": false,
+      "marked_email_as_spam": false,
+      "unsubscribed_from_emails": false,
+      "created_at": 1752665463,
+      "updated_at": 1764549585,
+      "signed_up_at": 1752665463,
+      "last_seen_at": 1752738865,
+      "last_replied_at": 1755765849,
+      "last_contacted_at": 1752665701,
+      "last_email_opened_at": null,
+      "last_email_clicked_at": null,
+      "language_override": null,
+      "browser": "chrome",
+      "browser_version": "138.0.0.0",
+      "browser_language": "en",
+      "os": "OS X 10.15.7",
+      "location": {
+        "type": "location",
+        "country": "Ireland",
+        "region": "Leinster",
+        "city": "Dublin",
+        "country_code": "IRL",
+        "continent_code": "EU"
+      },
+      "android_app_name": null,
+      "android_app_version": null,
+      "android_device": null,
+      "android_os_version": null,
+      "android_sdk_version": null,
+      "android_last_seen_at": null,
+      "ios_app_name": null,
+      "ios_app_version": null,
+      "ios_device": null,
+      "ios_os_version": null,
+      "ios_sdk_version": null,
+      "ios_last_seen_at": null,
+      "custom_attributes": {
+        "Order Number": "MZ-63091",
+        "Order Status": "Delivered",
+        "Tracking Number": "DPD-123456",
+        "Shipping Carrier": "DPD",
+        "Expected Delivery Date": "2025-10-01T00:00:00Z",
+        "Order Last Updated": 1759323600,
+        "Has an active order": false,
+        "Device Type": "MZ3",
+        "Device Serial Number": "MZ3-0023876",
+        "Firmware Version": "3.2.1",
+        "Battery Level": 90,
+        "Last Sync Time": 1762847520,
+        "Paired OS": "Android"
+      },
+      "tags": {
+        "type": "list",
+        "data": [
+          {
+            "id": "12755413",
+            "type": "tag",
+            "url": "/tags/12755413"
+          }
+        ],
+        "url": "/contacts/68778d770121d376d86c6447/tags",
+        "total_count": 1,
+        "has_more": false
+      },
+      "notes": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/68778d770121d376d86c6447/notes",
+        "total_count": 0,
+        "has_more": false
+      },
+      "companies": {
+        "type": "list",
+        "data": [
+          {
+            "id": "692ccb84e905f6e65e13440b",
+            "type": "company",
+            "url": "/companies/692ccb84e905f6e65e13440b"
+          }
+        ],
+        "url": "/contacts/68778d770121d376d86c6447/companies",
+        "total_count": 1,
+        "has_more": false
+      },
+      "opted_out_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/68778d770121d376d86c6447/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "opted_in_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/68778d770121d376d86c6447/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "utm_campaign": null,
+      "utm_content": null,
+      "utm_medium": null,
+      "utm_source": null,
+      "utm_term": null,
+      "referrer": null,
+      "sms_consent": false,
+      "unsubscribed_from_sms": false,
+      "enabled_push_messaging": null
+    },
+    {
+      "external_id": "575757",
+      "role": "user",
+      "email": "beard@gyminc.io",
+      "phone": null,
+      "name": "Coach Beard",
+      "avatar": null,
+      "owner_id": null,
+      "social_profiles": {
+        "type": "list",
+        "data": []
+      },
+      "has_hard_bounced": false,
+      "marked_email_as_spam": false,
+      "unsubscribed_from_emails": false,
+      "created_at": 1764545637,
+      "updated_at": 1764548696,
+      "signed_up_at": null,
+      "last_seen_at": null,
+      "last_replied_at": null,
+      "last_contacted_at": null,
+      "last_email_opened_at": null,
+      "last_email_clicked_at": null,
+      "language_override": null,
+      "browser": null,
+      "browser_version": null,
+      "browser_language": null,
+      "os": null,
+      "location": {
+        "type": "location",
+        "country": null,
+        "region": null,
+        "city": null,
+        "country_code": null,
+        "continent_code": null
+      },
+      "android_app_name": null,
+      "android_app_version": null,
+      "android_device": null,
+      "android_os_version": null,
+      "android_sdk_version": null,
+      "android_last_seen_at": null,
+      "ios_app_name": null,
+      "ios_app_version": null,
+      "ios_device": null,
+      "ios_os_version": null,
+      "ios_sdk_version": null,
+      "ios_last_seen_at": null,
+      "custom_attributes": {
+        "Order Number": null,
+        "Order Status": null,
+        "Tracking Number": null,
+        "Shipping Carrier": null,
+        "Expected Delivery Date": null,
+        "Order Last Updated": null,
+        "Has an active order": null,
+        "Device Type": "MZ3",
+        "Device Serial Number": "MZ3-49384012",
+        "Firmware Version": "3.2.1",
+        "Battery Level": 23,
+        "Last Sync Time": 1739260320,
+        "Paired OS": "iOS"
+      },
+      "tags": {
+        "type": "list",
+        "data": [
+          {
+            "id": "12755413",
+            "type": "tag",
+            "url": "/tags/12755413"
+          }
+        ],
+        "url": "/contacts/692cd4652fb0909a2a59fb3c/tags",
+        "total_count": 1,
+        "has_more": false
+      },
+      "notes": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cd4652fb0909a2a59fb3c/notes",
+        "total_count": 0,
+        "has_more": false
+      },
+      "companies": {
+        "type": "list",
+        "data": [
+          {
+            "id": "692ccb84e905f6e65e13440b",
+            "type": "company",
+            "url": "/companies/692ccb84e905f6e65e13440b"
+          }
+        ],
+        "url": "/contacts/692cd4652fb0909a2a59fb3c/companies",
+        "total_count": 1,
+        "has_more": false
+      },
+      "opted_out_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cd4652fb0909a2a59fb3c/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "opted_in_subscription_types": {
+        "type": "list",
+        "data": [],
+        "url": "/contacts/692cd4652fb0909a2a59fb3c/subscriptions",
+        "total_count": 0,
+        "has_more": false
+      },
+      "utm_campaign": null,
+      "utm_content": null,
+      "utm_medium": null,
+      "utm_source": null,
+      "utm_term": null,
+      "referrer": null,
+      "sms_consent": false,
+      "unsubscribed_from_sms": false,
+      "enabled_push_messaging": null
+    }
