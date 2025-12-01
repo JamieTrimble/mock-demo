@@ -1,5 +1,6 @@
 {
   "users": [
+    {
       "external_id": "676767",
       "email": "tedlasso@gyminc.io",
       "name": "Ted Lasso",
@@ -23,7 +24,7 @@
         "Battery Level": null,
         "Last Sync Time": null,
         "Paired OS": null
-   
+      }
     },
     {
       "external_id": "54321",
@@ -48,7 +49,7 @@
         "Battery Level": 90,
         "Last Sync Time": 1762847520,
         "Paired OS": "Android"
-
+      }
     },
     {
       "external_id": "575757",
@@ -71,6 +72,7 @@
         "Battery Level": 23,
         "Last Sync Time": 1739260320,
         "Paired OS": "iOS"
-
-    } ]
+      }
+    }
+  ]
 }
