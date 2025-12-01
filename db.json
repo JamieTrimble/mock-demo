@@ -1,4 +1,5 @@
 {
+  "users": {
     "external_id": "090909",
     "email": "des@example.io",
     "name": "Des Kelly",
@@ -22,4 +23,5 @@
       "Battery Level": null,
       "Last Sync Time": null,
       "Paired OS": null
+ }
 }
