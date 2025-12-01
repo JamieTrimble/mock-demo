@@ -73,7 +73,7 @@
         "Last Sync Time": 1739260320,
         "Paired OS": "iOS"
       }
-
+    },
     {
       "external_id": "54321",
       "role": "user",
@@ -96,5 +96,7 @@
         "Last Sync Time": 1763649419,
         "Paired OS": "iOS"
       }
+    }
   ]
 }
+
