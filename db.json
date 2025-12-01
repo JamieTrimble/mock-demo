@@ -75,7 +75,7 @@
       }
     },
     {
-      "external_id": "54321",
+      "external_id": "98765",
       "role": "user",
       "email": "john@example.io",
       "name": "John Rambo",
@@ -99,4 +99,3 @@
     }
   ]
 }
-
