@@ -2,7 +2,7 @@
   "users": [
     {
       "external_id": "676767",
-      "email": "jamie.trimble@intercom.io",
+      "email": "tedlasso@gyminc.io",
       "name": "Ted Lasso",
       "created_at": 1764543734,
       "updated_at": 1764549585,
@@ -54,7 +54,7 @@
     {
       "external_id": "575757",
       "role": "user",
-      "email": "jamie.trimble@intercom.io",
+      "email": "coachbeard@gyminc.io",
       "name": "Coach Beard",
       "created_at": 1764545637,
       "updated_at": 1764548696,
