@@ -1,8 +1,8 @@
 {
   "users": {
     "external_id": "090909",
-    "email": "des@example.io",
-    "name": "Des Kelly",
+    "email": "john@example.io",
+    "name": "John Doe",
     "created_at": 1764543734,
     "updated_at": 1764549585,
     "signed_up_at": 1764547182,
@@ -10,19 +10,39 @@
     "last_replied_at": 1764549315,
     "last_contacted_at": 1764549570,
     "custom_attributes": {
-      "Order Number": "MZ-012345",
-      "Order Status": "Shipped",
-      "Tracking Number": "FEDEX-1234567",
-      "Shipping Carrier": "FedEx",
-      "Expected Delivery Date": "2025-12-14T00:00:00Z",
-      "Order Last Updated": 1739260980,
-      "Has an active order": true,
-      "Device Type": "MZ Switch",
-      "Device Serial Number": "SWT-64730913",
-      "Firmware Version": "3.2.0",
-      "Battery Level": 7,
-      "Last Sync Time": 1739260980,
-      "Paired OS": "Android"
+      "device_count": 3,
+      "devices": [
+        {
+          "device_id": "TH-001",
+          "device_type": "Smart Thermostat Pro",
+          "room": "Living Room",
+          "current_temp_c": 19.5,
+          "last_used": 1794990000,
+          "target_temp_c": 22,
+          "mode": "heat",
+          "schedule_enabled": true
+        },
+        {
+          "device_id": "TH-002",
+          "device_type": "Smart Thermostat Lite",
+          "room": "Bedroom",
+          "current_temp_c": 17.0,
+          "last_used": 1794850000,
+          "battery_level_pct": 12,
+          "humidity_pct": 58,
+          "eco_mode": true
+        },
+        {
+          "device_id": "TH-003",
+          "device_type": "Smart Radiator Valve",
+          "room": "Kitchen",
+          "current_temp_c": 23.5,
+          "last_used": 1794400000,
+          "firmware_version": "1.4.2",
+          "wifi_signal": "weak",
+          "error_code": "E4"
+        }
+      ]
     }
   }
 }
